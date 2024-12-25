@@ -1,0 +1,41 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+document.write("<CENTER>");
+document.write("<FONT SIZE='1' FACE='Arial, sans serif, helvetica'>");
+document.write("<br>© 2005 The Pygos Group. All Rights Reserved.<br>");
+document.write("<a href='https://web.archive.org/web/20051210084228/http://www.hitentertainment.com/privacy/' target='_blank'>Privacy Policy</a><br>");
+document.write("<a href='https://web.archive.org/web/20051210084228/http://www.hitentertainment.com/terms/' target='_blank'>Terms and Conditions</a><br>");
+document.write("</FONT>");
+document.write("</CENTER>");
+
+}
+/*
+     FILE ARCHIVED ON 08:42:28 Dec 10, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:33:02 Dec 25, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.518
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.008
+  esindex: 0.012
+  cdx.remote: 8.876
+  LoadShardBlock: 394.612 (3)
+  PetaboxLoader3.datanode: 345.384 (4)
+  PetaboxLoader3.resolve: 201.795 (2)
+  load_resource: 219.067
+*/
