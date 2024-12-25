@@ -1,0 +1,91 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #969AFF;
+	background-color: #FFFFFF;
+
+}
+a:link {
+	color: #6633CC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: underline;
+
+
+}
+font {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000066;
+
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000066;
+	text-decoration: none;
+
+
+}
+a:hover {
+	color: #9D3CFF;
+	font-size: 10px;
+	text-decoration: underline;
+
+
+}
+hr {
+	color: #FFFFCC;
+}
+h3 {
+	font-size: 9px;
+	color: #9C9AFF;
+	font-family: Arial, Helvetica, sans-serif;
+
+
+}
+a:active {
+	font-size: 10px;
+	color: #000066;
+	text-decoration: underline;
+
+}
+a:visited {
+	color: #9D3CFF;
+	font-size: 10px;
+	text-decoration: underline;
+
+
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #9C9AFF;
+	text-decoration: none;
+	font-style: normal;
+	font-weight: normal;
+
+
+
+}
+
+/*
+     FILE ARCHIVED ON 23:55:54 Feb 06, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:31:59 Dec 25, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.444
+  exclusion.robots: 0.013
+  exclusion.robots.policy: 0.007
+  esindex: 0.009
+  cdx.remote: 9.009
+  LoadShardBlock: 144.092 (3)
+  PetaboxLoader3.resolve: 141.421 (2)
+  PetaboxLoader3.datanode: 234.671 (4)
+  load_resource: 270.973
+*/
